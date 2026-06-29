@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meteo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/C:/Users/k.soumia/Desktop/MR-Elyoussfi/meteo.xsd">
+    <mesure date="2025-10-04">
+        <ville nom="MOHAMMEDIA" temperature="22"/>
+        <ville nom="Berrechid" temperature="30"/>
+        <ville nom="Rabat" temperature="15"/>
+        <ville nom="Casablanca" temperature="26"/>
+        <ville nom="Settat" temperature="24"/>
+        <ville nom="Tanger" temperature="20"/>
+    </mesure>
+    <mesure date="2025-11-11">
+        <ville nom="MOHAMMEDIA" temperature="24"/>
+        <ville nom="Berrechid" temperature="33"/>
+        <ville nom="Rabat" temperature="20"/>
+        <ville nom="Casablanca" temperature="28"/>
+        <ville nom="Settat" temperature="34"/>
+        <ville nom="Tanger" temperature="27"/>
+    </mesure>
+</meteo>
