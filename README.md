@@ -5,8 +5,8 @@ Pr. **YOUSSFI**, Master MII-BDCC, ENSET — Université Hassan II Casablanca.
 
 ## Contenu
 
-| Dossier | Sujet |
-|---------|-------|
-| [jaxws-bank-service](jaxws-bank-service) | Web Service SOAP (JAX-WS) |
-| [devoir2-xml-banque](devoir2-xml-banque) | XML / XSLT (devoir banque) |
-| [xml-xsl-xpath-svg-meteo](xml-xsl-xpath-svg-meteo) | XML, XSL, XPath, SVG (météo) |
+| Partie | Sujet |
+|--------|-------|
+| N1-XML_DTD_XSD_XPath_XSL_SVG | XML, DTD, XSD, XPath, XSL, SVG (météo) |
+| N2-technologie_xml | Technologies XML (devoir banque) |
+| N3-web_services | Web Service SOAP (JAX-WS) |
